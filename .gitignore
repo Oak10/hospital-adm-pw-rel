@@ -1,0 +1,10 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+data/h_admissions/m_gerais_2012_2019.csv
+inmt_temp_raw/*.zip
+data_new/h_admissions/m_gerais_2012_2019.csv 

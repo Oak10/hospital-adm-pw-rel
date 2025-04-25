@@ -1,0 +1,613 @@
+id_municipio,id_municipio_nome,id_estacao,estacao
+5300108,Brasília,A001,Brasilia
+5300108,Brasília,A042,Brazlandia
+5300108,Brasília,A045,Aguas Emendadas
+5300108,Brasília,A046,Gama (Ponte Alta)
+5300108,Brasília,A047,Paranoa (Coopa-Df)
+5208707,Goiânia,A002,Goiania
+5213806,Morrinhos,A003,Morrinhos
+5218003,Porangatu,A005,Porangatu
+5220405,São Simão,A011,Sao Simao
+5212501,Luziânia,A012,Luziania
+5201702,Aragarças,A013,Aragarcas
+5208905,Goiás,A014,Goias
+5210901,Itapaci,A015,Itapaci
+5211909,Jataí,A016,Jatai
+5218300,Posse,A017,Posse
+5208608,Goianésia,A022,Goianesia
+5204409,Caiapônia,A023,Caiaponia
+5200605,Alto Paraíso de Goiás,A024,Alto Paraiso De Goias
+5218805,Rio Verde,A025,Rio Verde
+5213103,Mineiros,A026,Mineiros
+5216403,Paraúna,A027,Parauna
+5210208,Iporá,A028,Ipora
+5207402,Edéia,A029,Edeia
+5220207,São Miguel do Araguaia,A031,Sao Miguel Do Araguaia
+5213509,Monte Alegre de Goiás,A032,Monte Alegre De Goias
+5217401,Pires do Rio,A033,Pires Do Rio
+5205109,Catalão,A034,Catalao
+5211503,Itumbiara,A035,Itumbiara
+5206206,Cristalina,A036,Cristalina
+5220603,Silvânia,A037,Silvania
+5206206,Cristalina,A056,Cristalina (Fazenda Santa Monica)
+5002704,Campo Grande,A702,Campo Grande
+5006606,Ponta Porã,A703,Ponta Pora
+5008305,Três Lagoas,A704,Tres Lagoas
+5004700,Ivinhema,A709,Ivinhema
+5006309,Paranaíba,A710,Paranaiba
+5003207,Corumbá,A717,Nhumirim
+5001102,Aquidauana,A719,Aquidauana
+5003306,Coxim,A720,Coxim
+5004502,Itaporã,A721,Dourados
+5002159,Bodoquena,A722,Miranda
+5006903,Porto Murtinho,A723,Porto Murtinho
+5003207,Corumbá,A724,Corumba
+5002951,Chapadão do Sul,A730,Chapadao Do Sul
+5005400,Maracaju,A731,Maracaju
+5007695,São Gabriel do Oeste,A732,Sao Gabriel Do Oeste
+5002902,Cassilândia,A742,Cassilandia
+5007208,Rio Brilhante,A743,Rio Brilhante
+5005152,Juti,A749,Juti
+5000609,Amambai,A750,Amambai
+5007703,Sete Quedas,A751,Sete Quedas
+5004601,Itaquiraí,A752,Itaquirai
+5007901,Sidrolândia,A754,Sidrolandia
+5000203,Água Clara,A756,Agua Clara
+5002100,Bela Vista,A757,Bela Vista
+5005004,Jardim,A758,Jardim
+5001904,Bataguassu,A759,Bataguassu
+5003256,Costa Rica,A760,Costa Rica
+5007935,Sonora,A761,Sonora
+5000856,Angélica,S701,Angelica
+5001243,Aral Moreira,S702,Aral Moreira
+5001508,Bandeirantes,S703,Bandeirantes
+5002209,Bonito,S704,Bonito
+5002308,Brasilândia,S705,Brasilandia
+5002407,Caarapó,S706,Caarapo
+5002605,Camapuã,S707,Camapua
+5003801,Fátima do Sul,S708,Fatima Do Sul
+5004304,Iguatemi,S709,Iguatemi
+5004502,Itaporã,S710,Itapora
+5005251,Laguna Carapã,S711,Laguna Carapa
+5006002,Nova Alvorada do Sul,S712,Nova Alvorada Do Sul
+5006200,Nova Andradina,S713,Nova Andradina
+5006408,Pedro Gomes,S714,Pedro Gomes
+5007109,Ribas do Rio Pardo,S715,Ribas Do Rio Pardo
+5007554,Santa Rita do Pardo,S716,Santa Rita Do Pardo
+5007802,Selvíria,S717,Selviria
+5103403,Cuiabá,A901,Cuiaba
+5107958,Tangará da Serra,A902,Tangara Da Serra
+5107305,São José do Rio Claro,A903,S.j. Do Rio Claro
+5107925,Sorriso,A904,Sorriso
+5102637,Campo Novo do Parecis,A905,Campo Novo Dos Parecis
+5104104,Guarantã do Norte,A906,Guaranta Do Norte
+5107602,Rondonópolis,A907,Rondonopolis
+5100201,Água Boa,A908,Agua Boa
+5100300,Alto Araguaia,A909,Alto Araguaia
+5100805,Apiacás,A910,Apiacas
+5107875,Sapezal,A911,Sapezal
+5102678,Campo Verde,A912,Campo Verde
+5103304,Comodoro,A913,Comodoro
+5105101,Juara,A914,Juara
+5106307,Paranatinga,A915,Paranatinga
+5107909,Sinop,A917,Sinop
+5103379,Cotriguaçu,A919,Cotriguacu
+5105150,Juína,A920,Juina
+5107859,São Félix do Araguaia,A921,Sao Felix  Do Araguaia
+5105507,Vila Bela da Santíssima Trindade,A922,Vila Bela Da Santissima Trindade
+5107040,Primavera do Leste,A923,Primavera Do Leste
+5100250,Alta Floresta,A924,Alta Floresta
+5102793,Carlinda,A926,Carlinda
+5101902,Brasnorte,A927,Brasnorte (Novo Mundo)
+5108907,Nova Maringá,A928,Nova Maringa
+5106240,Nova Ubiratã,A929,Nova Ubirata
+5103858,Gaúcha do Norte,A930,Gaucha Do Norte
+5107792,Santo Antônio do Leste,A931,Santo Antonio Do Leste
+5104203,Guiratinga,A932,Guiratinga
+5104609,Itiquira,A933,Itiquira
+5100607,Alto Taquari,A934,Alto Taquari
+5106851,Porto Estrela,A935,Porto Estrela
+5107750,Salto do Céu,A936,Salto Do Ceu
+5106752,Pontes e Lacerda,A937,Pontes E Lacerda
+5107354,São José do Xingu,A942,Sao Jose Do Xingu
+5107883,Serra Nova Dourada,A943,Serra Nova Dourada
+5107701,Rosário Oeste,A944,Rosario Oeste
+2704302,Maceió,A303,Maceio
+2706406,Pão de Açúcar,A323,Pao De Acucar
+2706307,Palmeira dos Índios,A327,Palmeira Dos Indios
+2700300,Arapiraca,A353,Arapiraca
+2702306,Coruripe,A355,Coruripe
+2708501,São Luís do Quitunde,A356,Sao Luis Do Quitunde
+2707107,Piranhas,A371,Piranhas
+2927408,Salvador,A401,Salvador
+2903201,Barreiras,A402,Barreiras
+2919553,Luís Eduardo Magalhães,A404,Luiz Eduardo Magalhaes
+2906907,Caravelas,A405,Caravelas
+2909802,Cruz das Almas,A406,Cruz Das Almas
+2917607,Jaguaquara,A407,Itirucu
+2914703,Itaberaba,A408,Itaberaba
+2913606,Ilhéus,A410,Ilheus
+2919603,Macajuba,A412,Macajuba
+2910800,Feira de Santana,A413,Feira De Santana
+2933307,Vitória da Conquista,A414,Vitoria Da Conquista
+2928406,Santa Rita de Cássia,A415,Santa Rita De Cassia
+2909307,Correntina,A416,Correntina
+2903904,Bom Jesus da Lapa,A418,Bom Jesus Da Lapa
+2906907,Caravelas,A422,Abrolhos
+2926004,Remanso,A423,Remanso
+2914604,Irecê,A424,Irece
+2919306,Lençóis,A425,Lencois
+2911709,Guanambi,A426,Guanambi
+2925303,Porto Seguro,A427,Porto Seguro
+2930105,Senhor do Bonfim,A428,Senhor Do Bonfim
+2902708,Barra,A429,Barra
+2924306,Piatã,A430,Piata
+2908606,Conde,A431,Conde
+2904753,Buritirama,A432,Buritirama
+2904605,Brumado,A433,Brumado
+2901007,Amargosa,A434,Amargosa
+2932002,Uauá,A435,Uaua
+2925808,Queimadas,A436,Queimadas
+2932507,Una,A437,Una
+2920700,Maraú,A438,Marau
+2913200,Ibotirama,A439,Ibotirama
+2917508,Jacobina,A440,Jacobina
+2930501,Serrinha,A441,Serrinha
+2910701,Euclides da Cunha,A442,Euclides Da Cunha
+2932457,Umburanas,A443,Delfino
+2932903,Valença,A444,Valenca
+2913903,Ipiaú,A445,Ipiau
+2916401,Itapetinga,A446,Itapetinga
+2927705,Santa Cruz Cabrália,A447,Belmonte
+2909901,Curaçá,A448,Curaca
+2924405,Pilão Arcado,A449,Pilao Arcado
+2918100,Jeremoabo,A450,Jeremoabo
+2911105,Formosa do Rio Preto,A452,Formoso Do Rio Preto
+2915601,Itamaraju,A455,Itamaraju
+2927408,Salvador,A456,Salvador (Radio Farol)
+2926509,Ribeira do Amparo,A458,Ribeira Do Amparo
+2304400,Fortaleza,A305,Fortaleza
+2312908,Sobral,A306,Sobral
+2305100,Guaramiranga,A314,Guaramiranga
+2301901,Barbalha,A315,Barbalha
+2305506,Iguatu,A319,Iguatu
+2313302,Tauá,A324,Taua
+2311405,Quixeramobim,A325,Quixeramobim
+2308708,Morada Nova,A332,Morada Nova
+2307007,Jaguaruana,A339,Jaguaruana
+2304103,Crateús,A342,Crateus
+2302701,Campos Sales,A347,Campos Sales
+2306900,Jaguaribe,A358,Jaguaribe
+2306405,Itapipoca,A359,Itapipoca
+2307809,Marco,A360,Acarau
+2313401,Tianguá,A368,Tiangua
+2311306,Quixadá,A369,Quixada
+2111300,São Luís,A203,Sao Luis
+2101400,Balsas,A204,Balsas
+2102804,Carolina,A205,Carolina
+2103208,Chapadinha,A206,Chapadinha
+2104800,Grajaú,A207,Grajau
+2105005,Humberto de Campos,A217,Farol De Santana
+2101707,Barreirinhas,A218,Preguicas
+2112407,Turiaçu,A219,Turiacu
+2101202,Bacabal,A220,Bacabal
+2101608,Barra do Corda,A221,Barra Do Corda
+2103505,Colinas,A222,Colinas
+2100501,Alto Parnaíba,A223,Alto Parnaiba
+2104057,Estreito,A224,Estreito
+2105302,Imperatriz,A225,Imperatriz
+2103000,Caxias,A237,Caxias
+2102325,Buriticupu,A238,Buriticupu
+2114007,Zé Doca,A255,Ze Doca
+2501104,Areia,A310,Areia
+2504009,Campina Grande,A313,Campina Grande
+2507507,João Pessoa,A320,Joao Pessoa
+2510808,Patos,A321,Patos
+2516201,Sousa,A333,Sao Goncalo
+2509701,Monteiro,A334,Monteiro
+2503100,Cabaceiras,A348,Cabaceiras
+2508901,Mamanguape,A352,Camaratuba
+2507002,Itaporanga,A373,Itaporanga
+2611606,Recife,A301,Recife
+2611101,Petrolina,A307,Petrolina
+2601201,Arcoverde,A309,Arco Verde
+2606002,Garanhuns,A322,Garanhuns
+2614501,Surubim,A328,Surubim
+2603009,Cabrobó,A329,Cabrobo
+2604106,Caruaru,A341,Caruaru
+2606606,Ibimirim,A349,Ibimirim
+2613909,Serra Talhada,A350,Serra Talhada
+2605707,Floresta,A351,Floresta
+2610004,Palmares,A357,Palmares
+2609907,Ouricuri,A366,Ouricuri
+2612208,Salgueiro,A370,Salgueiro
+2207702,Parnaíba,A308,Parnaiba
+2203909,Floriano,A311,Floriano
+2211001,Teresina,A312,Teresina
+2201903,Bom Jesus,A326,Bom Jesus Do Piaui
+2207801,Paulistana,A330,Paulistana
+2210003,São João do Piauí,A331,Sao Joao Do Piaui
+2208403,Piripiri,A335,Piripiri
+2200459,Alvorada do Gurguéia,A336,Alvorada Do Gurgueia
+2202505,Caracol,A337,Caracol
+2208007,Picos,A343,Picos
+2210607,São Raimundo Nonato,A345,Sao Raimundo Nonato
+2211209,Uruçuí,A346,Urucui
+2207009,Oeiras,A354,Oeiras
+2202604,Castelo do Piauí,A361,Castelo Do Piaui
+2211308,Valença do Piauí,A363,Valenca Do Piaui
+2204402,Gilbués,A364,Gilbues
+2202307,Canto do Buriti,A365,Canto Do Buriti
+2202901,Corrente,A374,Corrente
+2201150,Baixa Grande do Ribeiro,A375,Baixa Grande Do Ribeiro
+2202208,Campo Maior,A376,Campo Maior
+2200608,Angical do Piauí,A377,Angical Do Piaui
+2408102,Natal,A304,Natal
+2402006,Caicó,A316,Caico
+2407203,Macau,A317,Macau
+2411056,Tibau,A318,Mossoro
+2401008,Apodi,A340,Apodi
+2414407,Touros,A344,Calcanhar
+2411205,Santa Cruz,A367,Santa Cruz
+2404705,Ipanguaçu,A372,Ipanguacu
+2800308,Aracaju,A409,Aracaju
+2803005,Itabaianinha,A417,Itabaianinha
+2805505,Poço Verde,A419,Poco Verde
+2801405,Carira,A420,Carira
+2800704,Brejo Grande,A421,Brejo Grande
+2802908,Itabaiana,A451,Itabaiana
+2804508,Nossa Senhora da Glória,A453,Nossa Senhora Da Gloria
+1200344,Manoel Urbano,A102,Parque Estadual Chandless
+1200401,Rio Branco,A104,Rio Branco
+1200203,Cruzeiro do Sul,A108,Cruzeiro Do Sul
+1200393,Porto Walter,A136,Porto Walter
+1200351,Marechal Thaumaturgo,A137,Marechal Thaumaturgo
+1200302,Feijó,A138,Feijo
+1200252,Epitaciolândia,A140,Epitaciolandia
+1302603,Manaus,A101,Manaus
+1301407,Eirunepé,A109,Eirunepe
+1300706,Boca do Acre,A110,Boca Do Acre
+1302405,Lábrea,A111,Labrea
+1301704,Humaitá,A112,Humaita
+1300144,Apuí,A113,Apui
+1301209,Coari,A117,Coari
+1302504,Manacapuru,A119,Manacapuru
+1300300,Autazes,A120,Autazes
+1301902,Itacoatiara,A121,Itacoatiara
+1302900,Maués,A122,Maues
+1303403,Parintins,A123,Parintins
+1304302,Urucará,A124,Urucara
+1303569,Rio Preto da Eva,A125,Rio Urubu
+1303536,Presidente Figueiredo,A126,Presidente Figueiredo
+1300409,Barcelos,A128,Barcelos
+1302702,Manicoré,A133,Manicore
+1303809,São Gabriel da Cachoeira,A134,S. G. Da Cachoeira
+1300144,Apuí,A144,Novo Aripuana
+1600501,Oiapoque,A242,Oiapoque
+1600535,Porto Grande,A244,Porto Grande
+1600303,Macapá,A249,Macapa
+1600253,Itaubal,A251,Itaubal
+1501402,Belém,A201,Belem
+1502400,Castanhal,A202,Castanhal
+1504455,Medicilândia,A209,Medicilandia
+1505486,Pacajá,A210,Pacaja
+1505650,Placas,A211,Placas
+1505502,Paragominas,A212,Paragominas
+1508001,Tomé-Açu,A213,Tome Acu
+1506187,Rondon do Pará,A214,Rondon Do Para
+1506203,Salinópolis,A215,Salinopolis
+1507300,São Félix do Xingu,A216,Sao Felix Do Xingu
+1501709,Bragança,A226,Braganca
+1507904,Soure,A227,Soure
+1501808,Breves,A228,Breves
+1508100,Tucuruí,A229,Tucurui
+1505536,Parauapebas,A230,Serra Dos Carajas
+1503606,Itaituba,A231,Itaituba
+1505106,Óbidos,A232,Obidos
+1506708,Santana do Araguaia,A233,Santana Do Araguaia
+1508084,Tucumã,A234,Tucuma
+1505064,Novo Repartimento,A235,Novo Repartimento
+1502103,Cametá,A236,Cameta
+1504802,Monte Alegre,A239,Monte Alegre
+1504208,Marabá,A240,Maraba
+1502707,Conceição do Araguaia,A241,Conceicao Do Araguaia
+1503606,Itaituba,A246,Mina Do Palito
+1508407,Xinguara,A247,Xinguara
+1502301,Capitão Poço,A248,Capitao Poco
+1506807,Santarém,A250,Santarem
+1502939,Dom Eliseu,A252,Dom Eliseu
+1500602,Altamira,A253,Altamira
+1506138,Redenção,A254,Redencao
+1506583,Santa Maria das Barreiras,A256,Santa Maria Das Barreiras
+1100205,Porto Velho,A925,Porto Velho
+1100304,Vilhena,A938,Vilhena
+1100049,Cacoal,A939,Cacoal
+1100023,Ariquemes,A940,Ariquemes
+1400100,Boa Vista,A135,Boa Vista
+1721000,Palmas,A009,Palmas
+1716208,Paranã,A010,Parana
+1716604,Peixe,A018,Peixe
+1709500,Gurupi,A019,Gurupi
+1716505,Pedro Afonso,A020,Pedro Afonso
+1702109,Araguaína,A021,Araguaina
+1707009,Dianópolis,A038,Dianopolis
+1708205,Formoso do Araguaia,A039,Formoso Do Araguaia
+1712702,Mateiros,A040,Mateiros
+1703909,Caseara,A041,Marianopolis Do To
+1703842,Campos Lindos,A043,Campos Lindos
+1702208,Araguatins,A044,Araguatins
+1718865,Santa Fé do Araguaia,A048,Santa Fe Do Araguaia
+1705508,Colinas do Tocantins,A049,Colinas Do Tocantins
+1718758,Rio Sono,A050,Rio Sono
+1717503,Pium,A051,Pium
+1718907,Santa Rosa do Tocantins,A052,Santa Rosa Do Tocantins
+1700400,Almas,A053,Almas
+1702000,Araguaçu,A054,Araguacu
+1711902,Lagoa da Confusão,A055,Lagoa Da Confusao
+3205309,Vitória,A612,Vitoria
+3204500,Santa Leopoldina,A613,Santa Teresa
+3203205,Linhares,A614,Linhares
+3200300,Alfredo Chaves,A615,Alfredo Chaves
+3204906,São Mateus,A616,Sao Mateus
+3200201,Alegre,A617,Alegre
+3204302,Presidente Kennedy,A622,Pres. Kennedy
+3203908,Nova Venécia,A623,Nova Venecia
+3202108,Ecoporanga,A631,Ecoporanga
+3203353,Marilândia,A632,Marilandia
+3205069,Venda Nova do Imigrante,A633,Venda Nova Do Imigrante
+3205200,Vila Velha,A634,Vila Velha
+3200102,Afonso Cláudio,A657,Afonso Claudio
+3105608,Barbacena,A502,Barbacena
+3104007,Araxá,A505,Araxa
+3143302,Montes Claros,A506,Montes Claros
+3170206,Uberlândia,A507,Uberlandia
+3101706,Almenara,A508,Almenara
+3110509,Camanducaia,A509,Monte Verde
+3171303,Viçosa,A510,Vicosa
+3168705,Timóteo,A511,Timoteo
+3134202,Ituiutaba,A512,Ituiutaba
+3145901,Ouro Branco,A513,Ouro Branco
+3162500,São João del Rei,A514,Sao Joao Del Rei
+3170701,Varginha,A515,Varginha
+3147907,Passos,A516,Passos
+3143906,Muriaé,A517,Muriae
+3136702,Juiz de Fora,A518,Juiz De Fora
+3111101,Campina Verde,A519,Campina Verde
+3117306,Conceição das Alagoas,A520,Conceicao Das Alagoas
+3106200,Belo Horizonte,A521,Pampulha
+3166709,Serra dos Aimorés,A522,Serra Dos Aimores
+3148103,Patrocínio,A523,Patrocinio
+3126109,Formiga,A524,Formiga
+3156908,Sacramento,A525,Sacramento
+3142700,Montalvânia,A526,Montalvania
+3168606,Teófilo Otoni,A527,Teofilo Otoni
+3161700,São Gonçalo do Abaeté,A528,Tres Marias
+3147600,Passa Quatro,A529,Passa Quatro
+3110301,Caldas,A530,Caldas
+3139904,Maria da Fé,A531,Maria Da Fe
+3127701,Governador Valadares,A532,Governador Valadares
+3128006,Guanhães,A533,Guanhaes
+3101102,Aimorés,A534,Aimores
+3126000,Florestal,A535,Florestal
+3123205,Dores do Indaiá,A536,Dores Do Indaia
+3121605,Diamantina,A537,Diamantina
+3120904,Curvelo,A538,Curvelo
+3135050,Jaíba,A539,Mocambinho
+3139607,Mantena,A540,Mantena
+3112307,Capelinha,A541,Capelinha
+3170404,Unaí,A542,Unai
+3124302,Espinosa,A543,Espinosa
+3109303,Buritis,A544,Buritis
+3151206,Pirapora,A545,Pirapora
+3128600,Guarda-Mor,A546,Guarda-Mor
+3164209,São Romão,A547,Sao Romao
+3116159,Chapada Gaúcha,A548,Chapada Gaucha
+3101003,Águas Vermelhas,A549,Aguas Vermelhas
+3133303,Itaobim,A550,Itaobim
+3155603,Rio Pardo de Minas,A551,Rio Pardo De Minas
+3157005,Salinas,A552,Salinas
+3136306,João Pinheiro,A553,Joao Pinheiro
+3113404,Caratinga,A554,Caratinga
+3106200,Belo Horizonte,A555,Ibirite (Rola Moca)
+3139409,Manhuaçu,A556,Manhuacu
+3127388,Goianá,A557,Coronel Pacheco
+3117836,Cônego Marinho,A559,Januaria
+3164704,São Sebastião do Paraíso,A561,Sao Sebastiao Do Paraiso
+3148004,Patos de Minas,A562,Patos De Minas
+3145059,Nova Porteirinha,A563,Janauba
+3122306,Divinópolis,A564,Divinopolis
+3105103,Bambuí,A565,Bambui
+3103405,Araçuaí,A566,Aracuai
+3139003,Machado,A567,Machado
+3170107,Uberaba,A568,Uberaba
+3167202,Sete Lagoas,A569,Sete Lagoas
+3145604,Oliveira,A570,Oliveira
+3147006,Paracatu,A571,Paracatu
+3106200,Belo Horizonte,F501,Belo Horizonte - Cercadinho
+3305554,Seropédica,A601,Seropedica-Ecologia Agricola
+3304557,Rio de Janeiro,A602,Rio De Janeiro-Marambaia
+3301702,Duque de Caxias,A603,Duque De Caxias - Xerem
+3300902,Cambuci,A604,Cambuci
+3300258,Arraial do Cabo,A606,Arraial Do Cabo
+3301009,Campos dos Goytacazes,A607,Campos Dos Goytacazes
+3302403,Macaé,A608,Macae
+3304201,Resende,A609,Resende
+3303906,Petrópolis,A610,Pico Do Couto
+3306107,Valença,A611,Valenca
+3305802,Teresópolis,A618,Teresopolis-Parque Nacional
+3303807,Paraty,A619,Parati
+3301009,Campos dos Goytacazes,A620,Campos Dos Goytacazes - Sao Tome
+3304557,Rio de Janeiro,A621,Rio De Janeiro - Vila Militar
+3303401,Nova Friburgo,A624,Nova Friburgo - Salinas
+3306008,Três Rios,A625,Tres Rios
+3304409,Rio Claro,A626,Rio Claro
+3303302,Niterói,A627,Niteroi
+3300100,Angra dos Reis,A628,Angra Dos Reis
+3301207,Carmo,A629,Carmo
+3304607,Santa Maria Madalena,A630,Santa Maria Madalena
+3304201,Resende,A635,Itatiaia
+3304557,Rio de Janeiro,A636,Rio De Janeiro - Jacarepagua
+3304557,Rio de Janeiro,A652,Rio De Janeiro - Forte De Copacabana
+3305604,Silva Jardim,A659,Silva Jardim
+3305505,Saquarema,A667,Saquarema - Sampaio Correia
+3550308,São Paulo,A701,Sao Paulo - Mirante
+3506003,Bauru,A705,Bauru
+3509700,Campos do Jordão,A706,Campos Do Jordao
+3541406,Presidente Prudente,A707,Presidente Prudente
+3516200,Franca,A708,Franca
+3548906,São Carlos,A711,Sao Carlos
+3520301,Iguape,A712,Iguape
+3521002,Iperó,A713,Sorocaba
+3522406,Itapeva,A714,Itapeva
+3550209,São Miguel Arcanjo,A715,Sao Miguel Arcanjo
+3534708,Ourinhos,A716,Ourinhos
+3542206,Rancharia,A718,Rancharia
+3504503,Avaré,A725,Avare
+3538709,Piracicaba,A726,Piracicaba
+3527108,Lins,A727,Lins
+3554102,Taubaté,A728,Taubate
+3557105,Votuporanga,A729,Votuporanga
+3524808,Jales,A733,Jales
+3506201,Bento de Abreu,A734,Valparaiso
+3525706,José Bonifácio,A735,Jose Bonifacio
+3503703,Ariranha,A736,Ariranha
+3519600,Ibitinga,A737,Ibitinga
+3510807,Casa Branca,A738,Casa Branca
+3522604,Itapira,A739,Itapira
+3550001,São Luís do Paraitinga,A740,Sao Luis Do Paraitinga
+3505302,Barra Bonita,A741,Barra Bonita
+3507605,Bragança Paulista,A744,Braganca Paulista
+3505401,Barra do Turvo,A746,Barra Do Turvo
+3540903,Pradópolis,A747,Pradopolis
+3505500,Barretos,A748,Barretos
+3524105,Ituverava,A753,Ituverava
+3505708,Barueri,A755,Barueri
+3514403,Dracena,A762,Dracena
+3529005,Marília,A763,Marilia
+3506102,Bebedouro,A764,Bebedouro
+3506359,Bertioga,A765,Bertioga
+3542602,Registro,A766,Registro
+3550704,São Sebastião,A767,Sao Sebastiao
+3555000,Tupã,A768,Tupa
+3508603,Cachoeira Paulista,A769,Cachoeira Paulista
+3550902,São Simão,A770,Sao Simao
+3550308,São Paulo,A771,Sao Paulo - Interlagos
+4106902,Curitiba,A807,Curitiba
+4111407,Ivaí,A818,Ivai
+4104907,Castro,A819,Castro
+4114609,Marechal Cândido Rondon,A820,Mal. Candido Rondon
+4112801,Joaquim Távora,A821,Joaquim Tavora
+4117271,Nova Tebas,A822,Nova Tebas
+4110201,Inácio Martins,A823,Inacio Martins
+4109906,Icaraíma,A824,Icaraima
+4108601,Goioerê,A825,Goioere
+4115200,Maringá,A835,Maringa
+4117008,Nova Fátima,A842,Nova Fatima
+4107207,Dois Vizinhos,A843,Dois Vizinhos
+4108304,Foz do Iguaçu,A846,Foz Do Iguacu
+4107108,Diamante do Norte,A849,Diamante Do Norte
+4118303,Paranapoema,A850,Paranapoema
+4119806,Planalto,A855,Planalto
+4105607,Cidade Gaúcha,A869,Cidade Gaucha
+4112306,Japira,A871,Japira
+4128534,Ventania,A872,Ventania
+4116208,Morretes,A873,Morretes
+4125605,São Mateus do Sul,A874,Sao Mateus Do Sul
+4108502,General Carneiro,A875,General Carneiro
+4105706,Clevelândia,A876,Clevelandia
+4103909,Campina da Lagoa,B803,Campina Da Lagoa
+4113304,Laranjeiras do Sul,B804,Laranjeiras Do Sul
+4105805,Colombo,B806,Colombo
+4314902,Porto Alegre,A801,Porto Alegre
+4315602,Rio Grande,A802,Rio Grande
+4316907,Santa Maria,A803,Santa Maria
+4317103,Sant'Ana do Livramento,A804,Santana Do Livramento
+4317806,Santo Augusto,A805,Santo Augusto
+4321501,Torres,A808,Torres
+4322400,Uruguaiana,A809,Uruguaiana
+4317202,Santa Rosa,A810,Santa Rosa
+4304507,Canguçu,A811,Cangucu
+4302808,Caçapava do Sul,A812,Cacapava Do Sul
+4315701,Rio Pardo,A813,Rio Pardo
+4300406,Alegrete,A826,Alegrete
+4301602,Bagé,A827,Bage
+4307005,Erechim,A828,Erechim
+4318622,São José dos Ausentes,A829,Sao Jose Dos Ausentes
+4318002,São Borja,A830,Sao Borja
+4315305,Quaraí,A831,Quarai
+4318309,São Gabriel,A832,Sao Gabriel
+4317400,Santiago,A833,Santiago
+4321600,Tramandaí,A834,Tramandai
+4311007,Jaguarão,A836,Jaguarao
+4320800,Soledade,A837,Soledade
+4303509,Camaquã,A838,Camaqua
+4314100,Passo Fundo,A839,Passo Fundo
+4302105,Bento Gonçalves,A840,Bento Goncalves
+4311304,Lagoa Vermelha,A844,Lagoa Vermelha
+4318903,São Luiz Gonzaga,A852,Sao Luiz Gonzaga
+4306106,Cruz Alta,A853,Cruz Alta
+4308508,Frederico Westphalen,A854,Frederico Westphalen
+4313706,Palmeira das Missões,A856,Palmeira Das Missoes
+4321352,Tavares,A878,Mostardas
+4304408,Canela,A879,Canela
+4322509,Vacaria,A880,Vacaria
+4306601,Dom Pedrito,A881,Dom Pedrito
+4321451,Teutônia,A882,Teutonia
+4310009,Ibirubá,A883,Ibiruba
+4303905,Campo Bom,A884,Campo Bom
+4322202,Tupanciretã,A886,Tupancireta
+4304663,Capão do Leão,A887,Capao Do Leao (Pelotas)
+4319802,São Vicente do Sul,A889,Sao Vicente Do Sul
+4306908,Encruzilhada do Sul,A893,Encruzilhada Do Sul
+4320404,Serafina Corrêa,A894,Serafina Correa
+4303608,Cambará do Sul,A897,Cambara Do Sul
+4317301,Santa Vitória do Palmar,A899,Santa Vitoria Do Palmar - Barra Do Chui
+4216602,São José,A806,Florianopolis
+4219002,Urussanga,A814,Urussanga
+4216503,São Joaquim,A815,Sao Joaquim
+4211652,Novo Horizonte,A816,Novo Horizonte
+4207502,Indaial,A817,Indaial
+4209003,Joaçaba,A841,Joacaba
+4202503,Bom Jardim da Serra,A845,Bom Jardim Da Serra - Morro Da Igreja
+4205001,Dionísio Cerqueira,A848,Dionisio Cerqueira
+4208450,Itapoá,A851,Itapoa
+4217204,São Miguel do Oeste,A857,Sao Miguel Do Oeste
+4219507,Xanxerê,A858,Xanxere
+4203006,Caçador,A859,Cacador
+4204806,Curitibanos,A860,Curitibanos
+4214508,Rio do Campo,A861,Rio Do Campo
+4215000,Rio Negrinho,A862,Rio Negrinho
+4208500,Ituporanga,A863,Ituporanga
+4210308,Major Vieira,A864,Major Vieira
+4209300,Lages,A865,Lages
+4209409,Laguna,A866,Laguna  - Farol De Santa Marta
+4201406,Araranguá,A867,Ararangua
+4208203,Itajaí,A868,Itajai
+4214300,Rancho Queimado,A870,Rancho Queimado
+4204202,Chapecó,A895,Chapeco
+4203600,Campos Novos,A898,Campos Novos
+5102504,Cáceres,A941,Caceres
+,,A302,Arq.sao Pedro E Sao Paulo
+,,C891,Criosfera
+5107065,Querência,A916,Querencia
+2919801,Macaúbas,A454,Macaubas
+2110500,São Bento,S108,Sao Bento
+2210508,São Pedro do Piauí,A362,Sao Pedro Do Piaui
+1303700,Santo Antônio do Içá,S102,Pef Ipiranga
+1302603,Manaus,S103,Crmn Manaus
+1304062,Tabatinga,S105,Dtcea Tabatinga
+1303809,São Gabriel da Cachoeira,S115,Pef Yauarete
+1300201,Atalaia do Norte,S116,Pef Estirao Do Equador
+1304203,Tefé,S117,Dtcea Tefe
+1303601,Santa Isabel do Rio Negro,S121,Santa Isabel Do Rio Negro
+1502939,Dom Eliseu,S107,Dom Eliseu
+1508126,Ulianópolis,S111,Ulianopolis
+1503754,Jacareacanga,S120,Dtcea Jacareacanga
+1100080,Costa Marques,S101,Forte Principe
+1100304,Vilhena,S104,Dtcea Vilhena
+1100106,Guajará-Mirim,S110,Dtcea Guajara-Mirim
+1400233,Caroebe,S113,Baliza
+1400456,Pacaraima,S114,Pacaraima
+1400159,Bonfim,S122,Eb_pef_bonfim
+4118204,Paranaguá,A847,Ilha Do Mel
+2203701,Esperantina,A338,Esperantina
