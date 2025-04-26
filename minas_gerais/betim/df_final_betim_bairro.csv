@@ -1,4 +1,4 @@
-Date,DayOfWeek,DayOfWeekNum,IsWeekend,temp_max,temp_min,humidity_max,humidity_min,NUMBER_INT,EST1_CO,EST1_MP10,EST1_03,EST1_MP2.5,EST1_SO2
+Date,DayOfWeek,DayOfWeekNum,IsWeekend,temp_max,temp_min,humidity_max,humidity_min,NUMBER_INT,CO,MP10,O3,MP2.5,SO2
 2015-01-01,Thu,3,0,33.9,20.6,89.0,32.0,2.0,,24.0,56.0,,0.0
 2015-01-02,Fri,4,0,32.9,21.0,87.0,38.0,2.0,,29.0,55.0,,2.0
 2015-01-03,Sat,5,1,33.5,20.2,83.0,38.0,2.0,1.0,38.0,74.0,,0.0
