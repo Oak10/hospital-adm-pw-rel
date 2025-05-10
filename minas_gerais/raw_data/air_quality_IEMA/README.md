@@ -16,3 +16,16 @@ Minas Gerais:
 
 São paulo:
   - https://drive.google.com/drive/folders/1S225sgjyNDA-2xTm_uFDr2KxDLu5KrAW
+
+
+# Air Q. Table
+
+https://energiaeambiente.org.br/qualidadedoar/#sec17
+
+![Air Q. Table](airqtable.png)
+
+
+
+https://www.gov.br/mma/pt-br/assuntos/meio-ambiente-urbano-recursos-hidricos-qualidade-ambiental/qualidade-do-ar/indice-de-qualidade-do-ar-iqar/orientacao-tecnica-indice-de-qualidade-do-ar-jan-25.pdf
+
+![Air Q. Table 2](airqtable2.png)
