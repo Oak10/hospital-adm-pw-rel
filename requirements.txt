@@ -1,6 +1,9 @@
+numpy==1.26.4
 pandas==2.2.3
 seaborn==0.13.2
 scikit-learn==1.6.1
 xgboost==3.0.0
 statsmodels==0.14.4
 holidays==0.71
+statsforecast==2.0.1
+pmdarima==2.0.4
